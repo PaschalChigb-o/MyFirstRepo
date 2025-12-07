@@ -1,0 +1,1 @@
+So far in this course I've learned about Git basics  : cloning, committing, pulling requests and pushing changes. 
